@@ -76,6 +76,8 @@ fastfetch
 alias dev='npm run dev'
 alias n='node'
 alias cexec='~/Documents/UtilScripts/cexec.sh'
+alias byee='~/Documents/UtilScripts/byee.sh'
+alias timer='node ~/Documents/TUI/pomodoro/dist/cli.js'
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
